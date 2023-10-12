@@ -2,4 +2,4 @@ This is My Basic Game using Javascript's functionality that is DOM(Document Obje
 This is a game where the player (you) have to guess a number between 1 and 20. The game is designed in a way to give you hints along the way to get a high score.
 Enjoy the game.
 
-To play the game visit on: (https://github.com/Harshvardhantomar/Guessing-game.git)
+To play the game visit on: [(https://github.com/Harshvardhantomar/Guessing-game.git)](https://harshvardhantomar.github.io/Guessing-game/)https://harshvardhantomar.github.io/Guessing-game/
